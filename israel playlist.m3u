@@ -2,7 +2,8 @@
  
 #EXTINF:0,iLand
 http://146.185.61.140:1935/ILAND/smil:iland.smil/chunklist_w897681157_b596000.m3u8
-
+#EXTINF:0,iLand HD
+https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist_w1783276280_b1496000.m3u8
 #EXTINF:0,9 канал Израиль
 http://50.7.168.114:8081/9_izrail/index.m3u8?wmsAuthSign=2d519af826acacc636d7f1fde710b581-1523676256-28i861i931i77
 
@@ -18,7 +19,8 @@ http://31.168.246.217:9981/stream/channelid/1504208352
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channelid/1683812876
 #EXTINF:-1,Ch 13 Reshet Dune HD
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channelid/1504208352
-
+#EXTINF:-1,Ch 13 Gibuy
+http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
 
 #EXTINF:-1,Keshet VOD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
