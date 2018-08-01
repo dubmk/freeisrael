@@ -8,8 +8,7 @@ http://50.7.136.50:8081/9_izrail/index.m3u8
 #EXTINF:-1, Kan 11
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
-#EXTINF:-1,Ch 12 Keshet
-https://5b2d5fd1a710b.streamlock.net:44443/chan/smil:12es.smil/chunklist_w1569582264_b800000_tkdG9rZW5zdGFydHRpbWU9MTUzMjk3NjkxMCZ0b2tlbmVuZHRpbWU9MTUzMjk4MDUxMCZ0b2tlbmhhc2g9SGtkMURoU1k1R01JZk5ncDdjWmRZQlE5dU1XZ2lBZFdOUjZfWWFUVlc3Yz0=.m3u8
+
 #EXTINF:-1,Ch 13 Reshet
 http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
 
