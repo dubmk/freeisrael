@@ -8,6 +8,8 @@ http://50.7.136.50:8081/9_izrail/index.m3u8
 #EXTINF:-1, Kan 11
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
+#EXTINF-1,Ch 12 Keshet
+http://37.152.88.252/Keshet/video.m3u8?token=israel
 
 #EXTINF:-1,Ch 13 Reshet
 http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
