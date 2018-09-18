@@ -5,9 +5,6 @@ https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist_w1783276280
 #EXTINF:0,9 канал Израиль
 http://50.7.136.50:8081/9_izrail/index.m3u8
 
-#EXTINF:-1, Kan 11
-http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
-
 #EXTINF-1,Ch 12 Keshet
 http://37.152.88.252/Keshet/video.m3u8?token=israel
 
