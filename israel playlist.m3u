@@ -1,18 +1,14 @@
 ﻿#EXTM3U
  
-#EXTINF:0,iLand HD
-https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist_w1783276280_b1496000.m3u8
-#EXTINF:0,9 канал Израиль
-http://50.7.136.50:8081/9_izrail/index.m3u8
+ 
+ #EXTINF:0,iLand HD
+https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist_w1202104227_b1496000.m3u8
 
-#EXTINF-1,Ch 12 Keshet
-http://37.152.88.252/Keshet/video.m3u8?token=israel
+
 
 #EXTINF:-1,Ch 13 Reshet
 http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
 
-#EXTINF:-1,Keshet VOD
-http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
 #EXTINF:-1, Aruz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
@@ -24,8 +20,12 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 #EXTINF:0,24 Music
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1,Hinuhit
-http://IL28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/chunklist_w2104786917.m3u8
+
 
 #EXTINF:-1 tvg-logo=”https://s29.postimg.org/4pfa0m3qf/aroz22.png", Arutz Hadashot
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+ 
+ 
+ 
+ 
+ 
